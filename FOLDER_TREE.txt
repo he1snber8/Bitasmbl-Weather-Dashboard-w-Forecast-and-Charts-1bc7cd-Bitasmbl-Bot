@@ -1,0 +1,25 @@
+weather_backend/
+ weather_backend/
+  __init__.py
+  settings.py
+  urls.py
+  wsgi.py
+ api/
+  __init__.py
+  apps.py
+  views.py
+ manage.py
+php_frontend/
+ public/
+  index.php
+  api_client.php
+  forecast.php
+  charts.js
+  .htaccess
+ios_client/
+ WeatherDashboard/
+  AppDelegate.h
+  AppDelegate.m
+  ViewController.h
+  ViewController.m
+  main.m
